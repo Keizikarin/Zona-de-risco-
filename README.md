@@ -1,9 +1,9 @@
-🚧 App de Monitoramento de Acidentes e Desastres em Rodovias
+🚧 App de Monitoramento de Desastres em Rodovias
 
 Sobre o projeto
 
 Aplicativo voltado para o monitoramento de condições rodoviárias e mitigação de riscos, 
-oferecendo suporte a usuários na identificação de áreas impactadas   desastres naturais que comprometam a segurança .
+oferecendo suporte a usuários na identificação de áreas impactadas por desastres naturais que comprometam a segurança .
 
 Funcionalidades
 
